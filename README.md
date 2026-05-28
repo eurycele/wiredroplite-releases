@@ -8,11 +8,11 @@ WireDrop Lite works with the main WireDrop app on Android and Windows, allowing 
 
 Download the latest WireDrop Lite release from GitHub Releases:
 
-[Download WireDrop Lite](https://github.com/eurycele/wiredrop-releases/releases/latest)
+[Download WireDrop Lite](https://github.com/eurycele/wiredroplite-releases/releases/latest)
 
 Current direct download:
 
-[WireDropLite.zip](https://github.com/eurycele/wiredrop-releases/releases/download/lite-v1.0.0/WireDropLite.zip)
+[WireDropLite.zip](https://github.com/eurycele/wiredroplite-releases/releases/download/v1.0.0/WireDropLite.zip)
 
 ## Features
 
