@@ -33,7 +33,7 @@ Current direct download:
 | --- | --- |
 | Windows | Available |
 | Android | Available via WireDrop app |
-| Linux | In progress |
+| Linux | Available |
 | macOS | In progress |
 
 ## How to Use
